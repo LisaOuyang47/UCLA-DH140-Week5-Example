@@ -22,9 +22,9 @@ This is a dynamic visualization based on a time series. And it is also a scatter
 
 3. Initial quick research about the dataset/topic above.
 
- 1. Social Recommendation Model Based on User Interaction in Complex Social Networks:(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218957)
+ a) Social Recommendation Model Based on User Interaction in Complex Social Networks:(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218957)
 
- 2. Twitter Sentiment Extraction-Analysis, EDA, and Model Dataset on Kaggle: (https://www.kaggle.com/code/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
+ b) Twitter Sentiment Extraction-Analysis, EDA, and Model Dataset on Kaggle: (https://www.kaggle.com/code/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)
  
  
 # Ideas from curated datasets & project lists
