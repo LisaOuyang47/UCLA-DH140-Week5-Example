@@ -1,5 +1,8 @@
 # UCLA-DH140-Week5-Example
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LisaOuyang47/UCLA-DH140-Week5-Example/HEAD)
+
 # Data and viz of interest
 1. An article that relates data science to a humanities topic that I am interested in: 
 
